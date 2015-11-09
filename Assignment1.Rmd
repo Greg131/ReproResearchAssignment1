@@ -1,0 +1,13 @@
+---
+title: "Assignment1"
+author: "G ARGENTON"
+date: "9 novembre 2015"
+output: html_document
+---
+
+Loading and processong the data
+
+```{r, echo=TRUE}
+summary(cars)
+```
+
